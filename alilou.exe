@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>HACKED</title>
+<style>
+:root{--g:#00ff41;color-scheme:dark;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html,body{height:100%;margin:0;background:#000}
+body{color:var(--g);font-family:"Courier New",Courier,monospace;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;padding:16px;box-sizing:border-box}
+body::after{content:"";position:fixed;inset:0;background:repeating-linear-gradient(0deg,rgba(0,0,0,.4) 0 2px,transparent 2px 4px),radial-gradient(ellipse at center,transparent 50%,#000 100%);pointer-events:none}
+.skull{font-size:.9rem;line-height:1.05;margin:0 0 18px;text-shadow:0 0 10px var(--g);animation:flick 4s infinite}
+h1{margin:0;font-size:clamp(1.8rem,9vw,3rem);letter-spacing:.12em;text-transform:uppercase;text-shadow:0 0 8px var(--g),0 0 24px var(--g);animation:glitch 2.5s infinite}
+h2{margin:22px 0 0;font-size:clamp(1rem,5vw,1.4rem);letter-spacing:.2em;animation:blink 1s steps(1) infinite}
+.sub{margin-top:26px;font-size:.85rem;opacity:.7}
+@keyframes blink{50%{opacity:0}}
+@keyframes flick{0%,92%,100%{opacity:1}94%{opacity:.5}96%{opacity:1}98%{opacity:.7}}
+@keyframes glitch{0%,90%,100%{transform:translate(0)}92%{transform:translate(-5px,1px);text-shadow:4px 0 #00ff41,-4px 0 #006b1b}94%{transform:translate(5px,-1px);text-shadow:-4px 0 #00ff41,4px 0 #006b1b}96%{transform:translate(-2px,0)}}
+</style>
+</head>
+<body>
+<pre class="skull">    _______
+  /         \
+ |  (o)  (o) |
+ |     ^     |
+  \  |||||  /
+   |_|_|_|_|</pre>
+<h1>HACKED BY alilou.exe</h1>
+<h2>DON'T PLAY WITH ME, BYE</h2>
+<div class="sub">[ SYSTEM BREACHED ]</div>
+</body>
+</html>
+
